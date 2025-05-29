@@ -33,7 +33,7 @@ I'm a dedicated **B.Sc. in CSE student at Green University of Bangladesh**, pass
 * Projects involving **Data Analysis, Aata Visualization, or Machine Learning**.
 * Initiatives focused on **Community Building** or **Event Management** related to tech.
 * **Open-source contributions** that align with my skill set.
-* 
+ 
 ### Research Interests
 
 * My ongoing research is focused on **Artificial Intelligence (AI)**, with a specific interest in **Retrieval-Augmented Generation(RAG)** and its applications in enhancing language models.
