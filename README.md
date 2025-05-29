@@ -20,7 +20,7 @@ I'm a dedicated **B.Sc. in CSE student at Green University of Bangladesh**, pass
 
 
 
-### I'm currently...
+### I'm Currently...
 
 * Deep diving into **Python for Data Science** and exploring new machine learning techniques.
 * Actively involved in **Event Coordination and Leadership roles** within the Green University Computer Club.
@@ -28,7 +28,7 @@ I'm a dedicated **B.Sc. in CSE student at Green University of Bangladesh**, pass
 
 
 
-### I'm looking to collaborate on...
+### I'm looking to Collaborate on...
 
 * Projects involving **Data Analysis, Aata Visualization, or Machine Learning**.
 * Initiatives focused on **Community Building** or **Event Management** related to tech.
