@@ -53,4 +53,4 @@ I'm a dedicated **B.Sc. in CSE student at Green University of Bangladesh**, pass
 
 ### Fun fact:
 
-I'm passionate about **Environmental Sustainability** and enjoy organizing events to create memorable experiences!I also love social media management.
+I'm deeply passionate about environmental sustainability and love turning ideas into impactful events that people remember. I also have a creative side -I enjoy managing social media and crafting engaging content!
