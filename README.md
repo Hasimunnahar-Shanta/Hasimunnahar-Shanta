@@ -30,7 +30,7 @@ I'm a dedicated **B.Sc. in CSE student at Green University of Bangladesh**, pass
 
 ### I'm looking to Collaborate on...
 
-* Projects involving **Data Analysis, Aata Visualization, or Machine Learning**.
+* Projects involving **Data Analysis, Data Visualization, or Machine Learning**.
 * Initiatives focused on **Community Building** or **Event Management** related to tech.
 * **Open-source contributions** that align with my skill set.
  
