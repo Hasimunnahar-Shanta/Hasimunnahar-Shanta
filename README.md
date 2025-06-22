@@ -9,7 +9,7 @@ I'm a dedicated **B.Sc. in CSE student at Green University of Bangladesh**, pass
 
 * **Skills:** Leadership & Team Management, Critical Thinking & Problem-Solving, Effective Communication, Documentation & Organizational Skills, MS Office Proficiency.
 * **Education:**
-    * **B.Sc. in CSE:** Green University of Bangladesh (2024 - Present), CGPA: 3.62 (Fall-2024) 
+    * **B.Sc. in CSE:** Green University of Bangladesh (2024 - Present)
     * **HSC:** Govt. Saroda Sundori Mohila College (2019), GPA 5.00 
     * **SSC:** Mahmudun Nabi High School (2017), GPA 5.00 
 * **Experience:**
